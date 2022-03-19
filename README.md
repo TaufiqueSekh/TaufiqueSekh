@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TaufiqueSekh
-- 👀 I’m interested in C ,AI & ML
+- 👀 I’m interested in python ,AI & ML
 - 🌱 I’m currently learning AI & ML
 - 💞️ I’m looking to collaborate on data engineer
 - 📫 How to reach me ... mailme
